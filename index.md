@@ -1,3 +1,3 @@
 #Table of Contents
 
-###Links to workshop pages
+###[Getting Started with Zotero](https://rootsandberries.github.io/CMU_Workshops/zotero/)
