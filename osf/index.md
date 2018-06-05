@@ -28,7 +28,7 @@ No previous experience with OSF is required. Please register for an OSF account 
 
 #####2. Download the exercise files
 
-* Click here to download a zip file of the files we'll be using in the workshop.  
+* Click [here](https://github.com/rootsandberries/CMU_Workshops/blob/gh-pages/osf/2018_OSFWorkshop_ExerciseFiles.zip?raw=true) to download a zip file of the files we'll be using in the workshop.  
 * Decompress the folder and save it to your Desktop for easy access.
 
 #####3. Complete this pre-workshop survey
