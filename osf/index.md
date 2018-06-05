@@ -20,15 +20,19 @@ No previous experience with OSF is required. Please register for an OSF account 
 
 #####Please complete the following activities prior to the workshop.
 
-Register for an OSF Account
+#####1. Register for an OSF Account
 
-1. ...
-2. ...
+* Go to the [OSF Home Page](https://osf.io/) and click on the green Sign Up button in the upper righthand corner.
+* Create a free account using your CMU email address.
+* **Note: Confirmation emails may not arrive until hours after your initial registration so please do this well in advance of the workshop.**
 
-Download the exercise files
+#####2. Download the exercise files
 
-1. ...
+* Click here to download a zip file of the files we'll be using in the workshop.  
+* Decompress the folder and save it to your Desktop for easy access.
 
-Complete this pre-workshop survey
+#####3. Complete this pre-workshop survey
+
+* Please complete this brief pre-workshop survey no later than June ??
 
 ---
