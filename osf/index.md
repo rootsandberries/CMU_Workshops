@@ -33,6 +33,6 @@ No previous experience with OSF is required. Please register for an OSF account 
 
 ##### 3. Complete this pre-workshop survey
 
-* Please complete this brief pre-workshop survey no later than June ??
+* Please complete [this brief pre-workshop survey](https://goo.gl/forms/WrrQ9WULJvn71ptH3) no later than end of business on June 27.
 
 ---
