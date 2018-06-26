@@ -9,8 +9,8 @@
 * If you'd like, change the name of the project by clicking on the project name.
 
 ---
-### Exercise 2 Add collaborators to your project
-* Add your neighbor as a contributor by clicking on Contributors from the menu at the top of the project page. 
+### Exercise 2 Add contributors to your project
+* Add your neighbor as a contributor by clicking on Contributors from the menu at the top of the project page and then the green "+ Add" button. 
 * Search for them by name or user profile information. 
 * Click the green plus sign next to their name and choose their permissions from the drop-down menu. Click Next.
 * Add them as contributors to all components in the project by clicking on Select All in the window that appears.  Click Add.
@@ -23,6 +23,7 @@
 * Click Create and go to the new component. **Is the component private or public by default?**
 
 ---
+&emsp;
 ### Exercise 4 Add files to a component
 
 * Click on OSF Storage in the files section of the Survey Instrument component. Click on '+ Create Folder' to add a new folder. 
