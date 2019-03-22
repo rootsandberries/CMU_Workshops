@@ -35,3 +35,6 @@ On Mac: Navigate to where you installed OpenRefine and click the OpenRefine icon
 
 The interface to OpenRefine is accessed via a web browser. When you run Refine normally this should open a window in your default web browser pointing at the address http://127.0.0.1:3333. If this doesn’t happen automatically you can open a web browser and type in this address.
 
+## Workshop Slides
+
+The workshop slides are available at: [http://bit.ly/CMU\_OR2019_slides] (http://bit.ly/CMU_OR2019_slides).
