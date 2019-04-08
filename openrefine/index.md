@@ -12,7 +12,7 @@ No previous experience is required. This will be a hands-on workshop--please bri
 
 #### 1. Download the workshop files
 
-Download the zip file from __________________ and save it in a folder on the desktop. Make sure to extract the files from the zip file.  
+Download the zip file from __________________ and save it in a folder on your desktop. Make sure to extract the files from the zip file.  
 #### 2. Download and Install OpenRefine
 
 You can download OpenRefine from [http://openrefine.org/download.html](http://openrefine.org/download.html). There are versions for Windows, Mac OS X and Linux.
@@ -27,7 +27,7 @@ You need to have a ‘Java Runtime Environment’ (JRE) installed on your comput
 
 ##### Running OpenRefine
 
-On Windows: Navigate to the folder where you’ve installed OpenRefine and either double-click ‘google-refine.exe’ (for Google Refine 2.5), ’openrefine.exe’ (for OpenRefine 2.7) or ‘refine.bat’ (for either)
+On Windows: Navigate to the folder where you’ve installed OpenRefine and either double-click ’openrefine.exe’ or ‘refine.bat’.
 
 On Linux: Navigate to the folder where you’ve installed OpenRefine in a terminal window and type ‘./refine’
 
