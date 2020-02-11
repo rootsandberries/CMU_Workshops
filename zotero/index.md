@@ -1,5 +1,5 @@
 # Getting Started with Zotero
-## Fall 2019
+## Spring 2020
 
 [Zotero](https://www.zotero.org/) is a free, open source tool for helping you collect, organize, cite and share your research sources. It easily import citation information from library databases, Google Scholar searches, online newspapers, films from IMDB, among other source types.
 
@@ -12,7 +12,7 @@ In this workshop, we’ll cover:
 
 No previous experience required. Please bring a laptop.
 
-To register, visit [https://cmu.libcal.com/event/5682076](https://cmu.libcal.com/event/5682076).
+To register, visit [https://cmu.libcal.com/event/6174150](https://cmu.libcal.com/event/6174150).
 
 ---
 
