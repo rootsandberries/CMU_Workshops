@@ -1,5 +1,4 @@
 # Getting Started with Open Science Framework
-### Summer 2018
 
 [Open Science Framework (OSF)](https://osf.io/) is a research reproducibility and project management platform that is free, open source, and designed to support research across the research lifecycle. OSF allows you to organize all of your research documentation, such as datasets, code, analysis, background literature and more, into a single space shared by your collaborators. OSF also supports the pre-registration of research protocols and preprint publication.
 
@@ -33,6 +32,6 @@ No previous experience with OSF is required. Please register for an OSF account 
 
 ##### 3. Complete this pre-workshop survey
 
-* Please complete [this brief pre-workshop survey](https://goo.gl/forms/WrrQ9WULJvn71ptH3) no later than end of business on June 27.
+* Please complete [this brief pre-workshop survey](https://goo.gl/forms/WrrQ9WULJvn71ptH3).
 
 ---
