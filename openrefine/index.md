@@ -1,5 +1,4 @@
 # Cleaning Messy Data with OpenRefine
-## Spring 2020
 
 Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn [OpenRefine](http://openrefine.org/), an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. 
 
@@ -15,7 +14,7 @@ No previous experience is required. This will be a hands-on workshop--please bri
 Download [the workshop files](https://github.com/rootsandberries/CMU_Workshops/blob/gh-pages/openrefine/2019Spring_OpenRefine_files.zip?raw=true) and save them in a folder on your desktop. Make sure to extract the files from the zip file.  
 #### 2. Download and Install OpenRefine
 
-You can download OpenRefine 3.3 from [http://openrefine.org/download.html](http://openrefine.org/download.html). There are versions for Windows, Mac OS X and Linux.
+You can download OpenRefine 3.4.1 from [http://openrefine.org/download.html](http://openrefine.org/download.html). There are versions for Windows, Mac OS X and Linux.
 
 ##### Installing OpenRefine
 
