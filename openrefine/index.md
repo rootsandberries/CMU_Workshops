@@ -11,7 +11,7 @@ No previous experience is required. This will be a hands-on workshop--please bri
 
 #### 1. Download the workshop files
 
-Download [the workshop files](https://github.com/rootsandberries/CMU_Workshops/blob/gh-pages/openrefine/2019Spring_OpenRefine_files.zip?raw=true) and save them in a folder on your desktop. Make sure to extract the files from the zip file.  
+Download [the workshop files](https://github.com/rootsandberries/CMU_Workshops/blob/gh-pages/openrefine/20201001_OpenRefine_Workshop_files.zip) and save them in a folder on your desktop. Make sure to extract the files from the zip file.  
 #### 2. Download and Install OpenRefine
 
 You can download OpenRefine 3.4.1 from [http://openrefine.org/download.html](http://openrefine.org/download.html). There are versions for Windows, Mac OS X and Linux.
