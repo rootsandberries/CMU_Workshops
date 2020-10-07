@@ -1,4 +1,4 @@
-# Cleaning Messy Data with OpenRefine
+# Cleaning Untidy Data with OpenRefine
 
 Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn [OpenRefine](http://openrefine.org/), an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. 
 
